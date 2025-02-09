@@ -3,12 +3,12 @@ entries:
   database:
   - apiVersion: v2
     appVersion: latest
-    created: "2025-02-06T04:38:31.227674977Z"
+    created: "2025-02-09T23:50:32.000014823Z"
     description: Helm chart for Kubernetes
-    digest: 00422d5ddb547dce62c2c872d1ec0e0ecd58c5e01f2284f52c3717de68889d91
+    digest: cd4a56a23b94d76a7fef33937ed6e6c2551ab1354b9ec71aeb2a646255c973c8
     name: database
     type: application
     urls:
     - database-0.1.0.tgz
     version: 0.1.0
-generated: "2025-02-06T04:38:31.227232835Z"
+generated: "2025-02-09T23:50:31.999461739Z"
